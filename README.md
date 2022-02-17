@@ -18,14 +18,13 @@
 ----  
 
 ##   Languages and tools:
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pinalli&show_icons=true&theme=radical)
+ ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pinalli&show_icons=true&theme=radical)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinalli&&show_icons=true&theme=radical)](https://github.com/pinalli/github-readme-stats) 
 
 <div>
  <code><img height= "25" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
- <code><img height= "25"src= "https://img.shields.io/badge/Spring-6DB33?style=for-the-badge&logo=java&logoColor=white"></code>                                                  
- <code><img height= "25"  src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=java&logoColor=white"></code>       
- <code><img height= "25"  src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=java&logoColor=white"></code>
+ <code><img height= "25"src= "https://img.shields.io/badge/Spring-6DB33?style=for-the-badge&logo=java&logoColor=white"></code>                                               <code><img height= "25"  src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=java&logoColor=white"></code>       
+ <code><img height= "25"  src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=java&logoColor=white"></code><br>
  <code><img height= "25" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=java&logoColor=white"></code>
  <code><img height= "25" src= "https://img.shields.io/badge/JavaScript-323030?style=for-the-badge&logo=java&logoColor=white"></code>
  <code><img height= "25" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=java&logoColor=white"></code>
