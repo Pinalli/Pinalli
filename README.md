@@ -15,7 +15,7 @@
 
 :computer: I'm Front-End  and Back-end Developer
 
-:books: I’m currently learning everything
+:books: I'm currently studying current technologies
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pinalli)](https://github.com/Pinalli)
 
