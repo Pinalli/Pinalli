@@ -1,6 +1,6 @@
 
 <div>
- <h2>Hi, there!
+ <h2>Hello, World!
  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
   </h2>
  </div>
@@ -21,7 +21,7 @@
 
 ----
 
- Social Networks:
+ Social Networks 🤝
  -----
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alberto-rocha-pinalli/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/beto_pinalli/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/alberto.rochapinalli/)
  [<img src = "https://img.shields.io/badge/discord-%9146FF.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/channels/839257212819996702/839271009528971285)
@@ -52,5 +52,5 @@
 
 - Thanks for visiting.😎
 
-
+[![Snake animation](https://github.com/pinalli/pinalli/blob/output/github-contribuition-grid-snake svg)
  
