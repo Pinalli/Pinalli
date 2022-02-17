@@ -39,8 +39,11 @@
  <code><img height= "25" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
  <code><img height= "25" src= "https://img.shields.io/badge/JavaScript-323030?style=for-the-badge&logo=javascript&logoColor=white"></code>
  <code><img height= "25" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"></code>
+ <code><img height= "25" src= "https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"></code><br>
  <code><img height= "25" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+ <code><img height= "25" src= "https://img.shields.io/badge/PHP-5d46e2?style=for-the-badge&logo=php&logoColor=white"></code>
+ <code><img height= "25" src= "https://img.shields.io/badge/Python-DAA520?style=for-the-badge&logo=python&logoColor=white"></code>
+
 
 
 </div>
