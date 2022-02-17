@@ -8,7 +8,7 @@
 
 - Thanks for visiting.
 
-- Enjoy it!! o/
+
 
  Social Networks:
  -----
