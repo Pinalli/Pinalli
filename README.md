@@ -15,7 +15,7 @@
 
 :computer: I'm Front-End  and Back-end Developer
 
-:books: I'm currently studying current technologies
+:books: At the moment I am studying the most used current technologies on the market
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pinalli)](https://github.com/Pinalli)
 
