@@ -52,5 +52,4 @@
 
 - Thanks for visiting.😎
 
-[![Snake animation](https://github.com/pinalli/pinalli/blob/output/github-contribuition-grid-snake svg)
  
