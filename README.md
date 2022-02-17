@@ -1,16 +1,21 @@
 
-## Hi, there 👽
 <div>
+ <h2>Hi, there!
  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
+  </h2>
  </div>
+ 
+ ## I'm  Alberto
+  
+ ----
 
 ### About me
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil
 
-:computer: I'm Front-End  and Back-end Developer!
+:computer: I'm Front-End  and Back-end Developer
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Pinalli)](https://github.com/Pinalli)
 
