@@ -11,7 +11,9 @@
 
 ### About me
 
-:house_with_garden: I’m from Brazil
+:house_with_garden: I’m from Brazil, living in Porto Alegre
+
+:school: Studying Software Engineering at PUCRS
 
 :computer: I'm Front-End  and Back-end Developer
 
