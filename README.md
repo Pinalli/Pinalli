@@ -46,9 +46,9 @@
  <code><img height= "25" src= "https://img.shields.io/badge/PHP-5d46e2?style=for-the-badge&logo=php&logoColor=white"></code>
  <code><img height= "25" src= "https://img.shields.io/badge/Python-DAA520?style=for-the-badge&logo=python&logoColor=white"></code>
 
-  ![Snake animation](https://github.com/pinalli/pinalli/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+  ![Snake animation](https://github.com/pinalli/pinalli/blob/output/github-contribution-grid-snake.svg)
 
 ----
 
