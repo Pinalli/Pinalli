@@ -37,7 +37,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinalli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pinalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pinalli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -46,11 +45,9 @@
   <img align="center" alt="Pinalli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pinalli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pinalli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Pinalli-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
+  <img align="center" alt="Pinalli-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">  
 </div>
 
-</div>
 
 <!--   ![Snake animation](https://github.com/pinalli/pinalli/blob/output/github-contribution-grid-snake.svg) -->
 
