@@ -9,7 +9,7 @@
   
  ----
 
-### About me
+### About me 
 
 :house_with_garden: I’m from Brazil, living in Porto Alegre
 
@@ -31,11 +31,12 @@
 ----  
 
 ##   Languages and tools :hammer_and_wrench:
+<div align="center">
+  <a href="https://github.com/pinalli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinalli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinalli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pinalli&show_icons=true&theme=radical)<br>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinalli&&show_icons=true&theme=radical)](https://github.com/pinalli/github-readme-stats) 
-
-<div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pinalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
