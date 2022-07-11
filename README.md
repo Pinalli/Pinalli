@@ -1,7 +1,7 @@
 
 <div>
  <h2>Hello, World!
- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30"> 
+ <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="35"> 
   </h2>
  </div>
  
