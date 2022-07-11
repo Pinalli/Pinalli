@@ -30,21 +30,24 @@
  
 ----  
 
-##   Languages and tools:
+##   Languages and tools :hammer_and_wrench:
+
  ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=pinalli&show_icons=true&theme=radical)<br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinalli&&show_icons=true&theme=radical)](https://github.com/pinalli/github-readme-stats) 
 
 <div>
- <code><img height= "25" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
- <code><img height= "25"src= "https://img.shields.io/badge/Spring-6DB33?style=for-the-badge&logo=spring&logoColor=white"></code>                                               <code><img height= "25"  src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>       
- <code><img height= "25"  src= "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></code><br>
- <code><img height= "25" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/JavaScript-323030?style=for-the-badge&logo=javascript&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white"></code><br>
- <code><img height= "25" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/PHP-5d46e2?style=for-the-badge&logo=php&logoColor=white"></code>
- <code><img height= "25" src= "https://img.shields.io/badge/Python-DAA520?style=for-the-badge&logo=python&logoColor=white"></code>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pinalli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pinalli-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Pinalli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Pinalli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pinalli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pinalli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Pinalli-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Pinalli-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+</div>
 
 </div>
 
