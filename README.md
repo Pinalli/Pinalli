@@ -13,7 +13,7 @@
 
 :house_with_garden: I’m from Brazil, living in Porto Alegre
 
-:school: Studying Software Engineering at PUCRS
+:school: I'm Software Engineering 
 
 :computer: I'm Front-End  and Back-end Developer
 
