@@ -15,7 +15,7 @@
 
 :school: I'm Software Engineering 
 
-:computer: I'm Front-End  and Back-end Developer
+:computer: I'm Front-end  and Back-end Developer
 
 :books: At the moment I am studying the most used current technologies on the market
 
